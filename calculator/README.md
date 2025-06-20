@@ -36,11 +36,11 @@ cli-calculator/
 
 1. Clone the repo or download the script:
    ```bash
-   git clone https://github.com/ddombuj/cli-converter
-   cd cli-converter
+   git clone https://github.com/ddombuj/calculator
+   cd calculator
 2. Run the program:
    ```bash
-   python converter.py
+   python calculadora.py
 3. Follow the on-screen menus to convert temperatures or currencies.
 
 ## 📈 Future Ideas
