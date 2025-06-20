@@ -21,7 +21,7 @@ Ideal para principiantes que quieren aprender Python paso a paso con ejemplos re
 
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tu_usuario/python_desde_cero.git
+   git clone https://github.com/ddombuj/python_desde_cero.git
 2. Entra en la carpeta del proyecto que quieras ejecutar:
    ```bash
    cd calculator
