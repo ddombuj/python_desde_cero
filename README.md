@@ -1,7 +1,7 @@
 # 🐍 python_desde_cero
 
 Repositorio con proyectos y ejercicios en Python, desde lo más básico hasta aplicaciones prácticas.  
-Ha sido un roadmap que diseñe para aprender desde lo más básico hasta las funciones más avanzadas.   
+Roadmap que diseñe para aprender desde lo más básico hasta las funciones más avanzadas.   
 Siéntete libre de leer cómo funciona cada aplicación, e intentar crearla tu, sin ninguna ayuda.
 
 ---
@@ -10,9 +10,10 @@ Siéntete libre de leer cómo funciona cada aplicación, e intentar crearla tu, 
 
 | Proyecto          | Descripción breve                                                | Estado          |
 |-------------------|-----------------------------------------------------------------|-----------------|
-| Calculadora CLI   | Calculadora de consola con buenas prácticas, funciones puras y manejo de errores | Completado ✅   |
-| Proyecto 2        | Descripción corta del proyecto 2                                | En progreso ⏳  |
-| Proyecto 3        | Descripción corta del proyecto 3                                | Pendiente ⚠️   |
+| Calculadora CLI   | Calculadora básica de consola | Completado ✅   |
+| Conversor CLI        | Conersor de divisas y temperaturas                                | Completado ✅  |
+| Proyecto 3        | Descripción corta del proyecto 3                                | En progreso ⏳  |
+| Proyecto 4        | Descripción corta del proyecto 4                                | Pendiente ⚠️   |
 
 *Cada carpeta contiene código limpio, documentación y pruebas cuando sea posible.*
 
