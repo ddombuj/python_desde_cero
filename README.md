@@ -1,7 +1,8 @@
 # 🐍 python_desde_cero
 
 Repositorio con proyectos y ejercicios en Python, desde lo más básico hasta aplicaciones prácticas.  
-Ideal para principiantes que quieren aprender Python paso a paso con ejemplos reales.
+Ha sido un roadmap que diseñe para aprender desde lo más básico hasta las funciones más avanzadas.   
+Siéntete libre de leer cómo funciona cada aplicación, e intentar crearla tu, sin ninguna ayuda.
 
 ---
 
