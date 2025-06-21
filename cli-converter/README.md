@@ -2,16 +2,16 @@
 
 A simple and interactive command-line tool written in Python for converting **temperatures** and **currencies**.
 
-🎯 Designed for learning, practice, and basic utility.
+🎯 Designed for learning, practicing, and basic utility.
 
 ---
 
 ## 🚀 Features
 
 - 🌡️ Convert between Celsius and Fahrenheit.
-- 💱 Convert between EUR, USD and CNY with fixed conversion rates.
-- 📚 Clear menu-based interface.
-- 🧪 Input validation to prevent crashes.
+- 💱 Convert between EUR, USD, and CNY using fixed conversion rates.
+- 📚 Clear, menu-driven interface.
+- 🧪 Robust input validation to prevent crashes.
 - 🧼 Clean, modular structure for easy extension.
 
 ---
