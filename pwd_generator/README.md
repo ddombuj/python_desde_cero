@@ -47,12 +47,16 @@ cli-password-generator/
    python pwd_generator.py
 3. Use the menu to toggle character categories and generate secure passwords.
 
+---
+
 ## 📈 Future Ideas
 - Add password length customization
 - Add option to copy password to clipboard
 - Save passwords to a local encrypted file
 - Support command-line arguments (e.g., --length 16 --no-symbols)
 - GUI version with tkinter
+
+---
 
 ## 👨‍💻 Author
 Created by Diego Domínguez  
