@@ -1,49 +1,51 @@
-# 🐍 python_desde_cero
+# 🐍 python_from_scratch
 
-Repositorio con proyectos y ejercicios en Python, desde lo más básico hasta aplicaciones prácticas.  
-Roadmap que diseñe para aprender desde lo más básico hasta las funciones más avanzadas.   
-Siéntete libre de leer cómo funciona cada aplicación, e intentar crearla tu, sin ninguna ayuda.
-
----
-
-## 🚀 Contenido
-
-| Proyecto          | Descripción breve                                                | Estado          |
-|-------------------|-----------------------------------------------------------------|-----------------|
-| Calculadora CLI   | Calculadora básica de consola | Completado ✅   |
-| Conversor CLI        | Conersor de divisas y temperaturas                                | Completado ✅  |
-| Proyecto 3        | Descripción corta del proyecto 3                                | En progreso ⏳  |
-| Proyecto 4        | Descripción corta del proyecto 4                                | Pendiente ⚠️   |
-
-*Cada carpeta contiene código limpio, documentación y pruebas cuando sea posible.*
+A repository with Python projects and exercises — from the very basics to practical applications.  
+This is the roadmap I designed to learn Python from scratch all the way to advanced features.  
+Feel free to explore how each application works, and try building it yourself without any help.
 
 ---
 
-## 📚 Cómo usar este repositorio
+## 🚀 Contents
 
-1. Clona el repositorio:  
+| Project                 | Brief Description                                  | Status          |
+|------------------------|-----------------------------------------------------|-----------------|
+| CLI Calculator          | Basic console calculator                           | Completed ✅     |
+| CLI Converter           | Currency and temperature converter                 | Completed ✅     |
+| Password Generator CLI  | Password generator with customizable options       | Completed ✅     |
+| Project 4               | Short description of project 4                     | In progress ⏳   |
+| Project 5               | Short description of project 5                     | Pending ⚠️      |
+
+*Each folder contains clean code, documentation, and tests whenever possible.*
+
+---
+
+## 📚 How to Use This Repository
+
+1. Clone the repository:  
    ```bash
    git clone https://github.com/ddombuj/python_desde_cero.git
-2. Entra en la carpeta del proyecto que quieras ejecutar:
+
+2. Navigate to the project folder you want to run:
    ```bash
    cd calculator
-3. Ejecuta el script principal
+3. Run the main script:
    ```bash
    python calculator.py
-4. Revisa el README de cada proyecto para instrucciones específicas y detalles.
+4. Check the README file in each project for specific instructions and details.
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-- Aprender Python desde cero con proyectos sencillos y prácticos.
-- Aplicar buenas prácticas de programación y diseño.
-- Crear una base sólida para futuros proyectos más complejos.
+- Learn Python from scratch through simple and practical projects.
+- Apply good programming and design practices.
+- Build a solid foundation for more complex future projects.
 
-## 📖 Próximos pasos
+## 📖 Next Steps
 
-- Añadir más proyectos (juegos, algoritmos, automatización).
-- Implementar pruebas unitarias y documentación para cada proyecto.
-- Explorar librerías y frameworks de Python.
+- Add more projects (games, algorithms, automation).
+- Implement unit testing and documentation for each project.
+- Explore Python libraries and frameworks.
 
-## ✍️ Autor
+## ✍️ Author
 Diego Domínguez  
-2025 - Proyecto personal de aprendizaje y portfolio.  
+2025 - Personal learning and portfolio project.
