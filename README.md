@@ -12,9 +12,10 @@ Feel free to explore how each application works, and try building it yourself wi
 |------------------------|-----------------------------------------------------|-----------------|
 | CLI Calculator          | Basic console calculator                           | Completed ✅     |
 | CLI Converter           | Currency and temperature converter                 | Completed ✅     |
-| Password Generator CLI  | Password generator with customizable options       | Completed ✅     |
-| Project 4               | Short description of project 4                     | In progress ⏳   |
-| Project 5               | Short description of project 5                     | Pending ⚠️      |
+| CLI Password Generator  | Password generator with customizable options       | Completed ✅     |
+| CLI Hangman               | Hangman game                     | Completed ✅   |
+| Project 5               | Short description of project 5                     | In progress ⏳   |
+| Project 6               | Short description of project 6                     | Pending ⚠️      |
 
 *Each folder contains clean code, documentation, and tests whenever possible.*
 
