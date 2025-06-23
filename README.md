@@ -14,6 +14,7 @@ Feel free to explore how each application works, and try building it yourself wi
 | CLI Converter           | Currency and temperature converter                 | Completed ✅     |
 | CLI Password Generator  | Password generator with customizable options       | Completed ✅     |
 | CLI Hangman               | Hangman game                     | Completed ✅   |
+| CLI Web Scraper | Web Scraper to extract news titles from a website using BeautifulSoup | Completed ✅ |
 | Project 5               | Short description of project 5                     | In progress ⏳   |
 | Project 6               | Short description of project 6                     | Pending ⚠️      |
 
