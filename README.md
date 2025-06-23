@@ -26,11 +26,11 @@ Feel free to explore how each application works, and try building it yourself wi
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ddombuj/python_desde_cero.git
+   git clone https://github.com/ddombuj/python_from_scratch.git
 
 2. Navigate to the project folder you want to run:
    ```bash
-   cd calculator
+   cd cli-calculator
 3. Run the main script:
    ```bash
    python calculator.py
